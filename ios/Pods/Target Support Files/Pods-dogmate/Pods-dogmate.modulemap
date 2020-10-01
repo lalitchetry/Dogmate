@@ -1,0 +1,6 @@
+module Pods_dogmate {
+  umbrella header "Pods-dogmate-umbrella.h"
+
+  export *
+  module * { export * }
+}
